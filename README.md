@@ -14,7 +14,7 @@
     <a href="https://portfolio.redsunsetfarm.com">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=black" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <a href="https://www.linkedin.com/in/luka-koehler-4a57442a5/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:luka@redsunsetfarm.com">
@@ -97,7 +97,7 @@
 
 ---
 
-<!-- GITHUB STATS - REPLACE "YOUR_REAL_GITHUB_USERNAME" BELOW -->
+<!-- GITHUB STATS - FIXED FOR USER: ToTt0G -->
 <h2 align="center">📊 The Data</h2>
 
 <div align="center">
@@ -111,3 +111,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
 </div>
+```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2FToTt0G)][[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHRWL0yjxSA1tCjgDng1FoFcwir6nydCnOw_Ua1ymaNOy3HGhpc74R9_deoZr7aHzkPHEU0Z0_XhKkab-CKnmTXmK5hF5Z5voMtyrbsScwZp1dg26yVHintU0qi4mzibomvra_iLWC3F9jg197I7A7PqtUa_iFFSTbqkxvmTfogoO-6fnYL)][[3](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEap5u2r9ABgqcoZthg7V1-g9JnPr_gUcQ5l90KW87zjLWmRPLeU5FxPScqjB2Qu7X8Eex7aTlIHdvnL0JAnD6MWg-XTvLKLatMoFZveMmsE9X7_rPNBIfYVjR5G72hg3DqohYDjng%3D)]
